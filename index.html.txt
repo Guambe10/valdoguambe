@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Moçambique</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Digital Moçambique</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Explore Nossos Produtos Digitais</h2>
+        <p>Oferecemos uma variedade de produtos digitais que promovem a cultura e o conhecimento moçambicano.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Digital Moçambique</p>
+    </footer>
+</body>
+</html>

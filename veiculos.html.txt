@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veículos - Auto Moçambique</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Veículos da Auto Moçambique</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="veiculos.html">Veículos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Carros Novos</h2>
+        <p>Explore nossa seleção de carros novos das melhores marcas.</p>
+        <h2>Carros Usados</h2>
+        <p>Oferecemos uma variedade de carros usados, todos inspecionados e com garantia.</p>
+        <h2>Financiamento</h2>
+        <p>Oferecemos opções de financiamento acessíveis para facilitar a compra do seu carro.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Auto Moçambique</p>
+    </footer>
+</body>
+</html>
